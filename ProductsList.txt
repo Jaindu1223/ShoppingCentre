@@ -1,0 +1,5 @@
+Electronics, 1, Laptop, 10, 999.99, Dell, 12
+Electronics, 4, Iron, 30, 200.00, LG, 12
+Clothing, 5, shirt, 3, 30.00, M, Black
+Clothing, 7, T-shirt, 2, 20.00, S, Blue
+Electronics, 9, Phone, 40, 300.00, Apple, 12
